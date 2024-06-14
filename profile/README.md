@@ -1,0 +1,3 @@
+# UrityNFC
+
+Urity is a secure access control system based on NFC technology. This technology allows short-range wireless communication between devices, ideal when physical proximity is required for authentication. Urity can be implemented in establishments that experience vulnerability problems with access to their facilities, prone to incidents due to unauthorized entry of any person. This, is by giving access only through a card with an integrated NFC chip that contains the data registered in the establishment. In this way, if you are not in the system, access is denied and as an extra, a record is kept of the people who use the facilities.
